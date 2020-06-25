@@ -1,4 +1,5 @@
-*.txt
+instructions.txt
+note.txt
 *.zip
 *.xlsx
 train.csv
